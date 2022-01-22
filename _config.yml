@@ -1,1 +1,11 @@
+title: Niraj Patel
+logo: "/profile.png?raw=true"
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Software Engineer
+  <br><br>
+  <a href="mailto:nirajpatel1712@gmail.com">nirajpatel1712@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/nirajjpatel/">LinkedIn Profile</a>
+  <br>
+  <a href="https://stackoverflow.com/users/10055300/niraj-patel">Stackoverflow</a>
 theme: jekyll-theme-minimal
