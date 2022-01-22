@@ -33,6 +33,7 @@ Worked as a fullstack developer in web development team. I contributed in variou
 ### Vakratunda Systems Pvt Ltd (September 2017 - May 2018)
 
 Developing various android mobile applications using various tools and techlogies such as java, android Studio, postman and github.
+
 ---
 
 ## Education
