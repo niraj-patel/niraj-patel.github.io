@@ -1,19 +1,15 @@
 ## Portfolio
 
-I am a Software Engineer with an experience of over 3 years. I have hands on experience working with javascript and its web frameworks and libraries. I have extensively worked on javascript, node.js, reactjs, and databases like mongodb, mysql and postgresql for more than 3 years.
+Senior software engineer with more than 6.5 years of experience in delivering products end to end. Proficient in both
+frontend and backend development using JavaScript, Node JS, Express JS, Frontend frameworks (ReactJS, Angular, VueJS,etc.), and exposure to cloud services like AWS. I have also worked on projects having serverless architecture, microservices, micro-frontend, mono-repo, etc. Proven track record in leading epics/modules, mentoring junior developers, conducting code reviews and work collaboratively in cross-functional teams with designers, product owners, testers and other stack holders.
 
 ---
 
 ## Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-%23e54d2f) ![CSS3](https://img.shields.io/badge/-CSS3-%23006fb9) ![Javascript](https://img.shields.io/badge/-Javascript-%23f5df2c) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%236c4b9e) ![Material Design](https://img.shields.io/badge/-Material%20Design-%235963d5)
+HTML, CSS, JavaScript, TypeScript, Node JS, AWS (Lambda, DynamoDB, S3, Cloudformation, Pinpoint, Firehose, Athena, DynamoDB Streams), Express JS, React JS, Next JS, Angular, Vue JS, Jest, Cypress, Vitest, MongoDB, PostgreSQL, Rush, NPM, Yarn, Git, Github, Jira, Postman, Swaggerhub/OpenAPI, Nest JS
 
-![NodeJS](https://img.shields.io/badge/-Node%20JS-%2368a15c) ![Express JS](https://img.shields.io/badge/-Express%20JS-%23b0b3a0) ![Socket IO](https://img.shields.io/badge/-Socket%20IO-%23000000)
-![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-%2353ab51) ![Reddis](https://img.shields.io/badge/-Reddis-%23de4131) ![Jest](https://img.shields.io/badge/-Jest-brightgreen)
-
-![React JS](https://img.shields.io/badge/-React%20JS-%2353c1de) ![Redux](https://img.shields.io/badge/-Redux-%237859bc) ![Angular](https://img.shields.io/badge/-Angular-%23de4131) ![Cypress](https://img.shields.io/badge/-Cypress-black)
-
-![AWS](https://img.shields.io/badge/-AWS-%23f89a31)
+Fullstack Development, Backend Development, Frontend Development, Agile Methodologies
 
 ---
 
@@ -22,17 +18,33 @@ I am a Software Engineer with an experience of over 3 years. I have hands on exp
 ### **SOFTWARE ENGINEER**
 ### One Advanced (May 2021 -  Present)
 
-Working as a fullstack developer in R&D team of Advanced. Involved in understanding the business functionality of applications and understanding the complex structure of existing system. Responsible for development of certain modules starting from UI to APIs. Peer code review and writing unit tests.
+* Contributed as a fullstack engineer in platform team which provides different types of platform services and UI capabilities to the products within the company. This is a cross functional team consisting members having various skill sets from around the globe.
+* Led and developed SMS notifications service, resulting in 98% delivery rate and sends an average of 35000 SMS daily. Leveraged AWS services such as Lambda, Pinpoint, DynamoDB, DynamoDB Streams, Pinpoint Events, Kinesis Firehose, S3, etc in developing this service. It also helped product consuming this service to switch from physical data centres and servers to cloud service which reduced the cost significatly. 
+* Actively contributed in various initiatives like tech debt reduction, reducing security vuleneribilities and cost optimization activities.
+* Designed and implemented user-friendly applets and admin modules using frontend frameworks and Mosaic UI
+components.
+* Developed REST APIs using Swaggerhub, AWS Lambda, and AWS DynamoDB.
+* Maintained minimum 80% code coverage by writing unit test using cypress, jest and vitest.
+* Integrated various third-party software APIs, including Salesforce, Aha, MS Teams, Portt, and Webexpenses.
+* Additionally, integrated internal company product APIs to facilitate applet development.
+* Mentored junior developers, assisted colleagues in onboarding projects, ensuring smooth transitions and effective knowledge transfer.
+* Actively participated in code reviews, ensuring code quality, consistency, and adherence to best practices.
+* Engaged in scrum ceremonies, contributing to sprint planning, daily stand-ups, retrospectives, and reviews.
+* Contributed in providing high level epic estimations, assisted product owners in stories and epic creations.
+* Promoted from Software Engineer to Senior Software Engineer in recognition of outstanding performance and significant contributions to team success and project excellence.
+* Received SPOT Award for exceptional contributions in applet development.
 
 ### **SOFTWARE ENGINEER**
 ### Solution Analysts Pvt Ltd (May 2018 - May 2021)
 
-Worked as a fullstack developer in web development team. I contributed in various projects using HTML, CSS, bootstrap, javascript, Angular, ReactJS, NodeJS, ExpressJS, MongoDB, and other javascript frameworks and libraries. 
-
-### **SOFTWARE ENGINEER**
-### Vakratunda Systems Pvt Ltd (September 2017 - May 2018)
-
-Developing various android mobile applications using various tools and techlogies such as java, android Studio, postman and github.
+* Developed and maintained REST APIs using Node.js, Express.js, NestJS, Socket.io.
+* Contributed in frontend applications using React.js and Angular.
+* Utilized NoSQL database like MongoDB and SQL database like PostgreSQL.
+* Assigned to work directly with clients, gathering requirements, providing technical guidance, and ensuring
+successful project delivery.
+* Worked on diverse projects across various domains, including notary, restaurants, and banks, showcasing
+versatility and adaptability.
+* Promoted from Junior to Mid Level Engineer in recognition of excellent performance and contributions to the team and projects.
 
 ---
 
@@ -40,9 +52,3 @@ Developing various android mobile applications using various tools and techlogie
 
 ### **Rai University**
 ### BTech Information Technology (2013-2017)
-GPA 2.4 out of 4
-
----
-
-### INTERESTS
-I like to hang out with people and have some good food. I am enthusiasts about cricket, cars and like to drive a lot.
