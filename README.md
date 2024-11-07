@@ -1,7 +1,6 @@
 ## Portfolio
 
-Senior software engineer with more than 6.5 years of experience in delivering products end to end. Proficient in both
-frontend and backend development using JavaScript, Node JS, Express JS, Frontend frameworks (ReactJS, Angular, VueJS,etc.), and exposure to cloud services like AWS. I have also worked on projects having serverless architecture, microservices, micro-frontend, mono-repo, etc. Proven track record in leading epics/modules, mentoring junior developers, conducting code reviews and work collaboratively in cross-functional teams with designers, product owners, testers and other stack holders.
+Senior software engineer with more than 6.5 years of experience in delivering products end to end. Proficient in both frontend and backend development using JavaScript, Node JS, Express JS, Frontend frameworks (ReactJS, Angular, VueJS,etc.), and exposure to cloud services like AWS. I have also worked on projects having serverless architecture, microservices, micro-frontend, mono-repo, etc. Proven track record in leading epics/modules, mentoring junior developers, conducting code reviews and work collaboratively in cross-functional teams with designers, product owners, testers and other stack holders.
 
 ---
 
